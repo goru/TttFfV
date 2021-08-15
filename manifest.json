@@ -1,0 +1,10 @@
+{
+  "name": "Tabs to the Front for Vivaldi",
+  "description": "Tabs to the Front for Vivaldi",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["tabs"]
+}
